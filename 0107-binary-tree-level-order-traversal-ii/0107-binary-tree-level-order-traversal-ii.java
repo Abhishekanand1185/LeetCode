@@ -21,6 +21,7 @@ class Solution {
         }
         
         Queue<TreeNode> q = new LinkedList<>();
+        Stack<List<Integer>> st = new Stack<>();
         q.add(root);
         
         while (!q.isEmpty()) {
@@ -38,9 +39,11 @@ class Solution {
                     q.add(currentNode.right);
                 }
             }
-            ans.add(subans);
+            st.push(subans);
         }
-        Collections.reverse(ans);
+        while(st.size()>0){
+            ans.add(st.pop());
+        }
         return ans;
     }
 }
