@@ -4,7 +4,7 @@ class Solution {
         for(int gift : gifts){
             pq.add(gift);
         }
-        for(int i=0; i<k; i++){
+        for(int i=0; i<k && pq.peek() > 1; i++){
             int rem = pq.poll();
             pq.add((int) Math.sqrt(rem));
         }
