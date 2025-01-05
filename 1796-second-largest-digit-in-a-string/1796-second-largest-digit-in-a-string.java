@@ -13,7 +13,7 @@ class Solution {
                     max = ch;
                 }
                 else if(ch > sMax && ch < max){
-                    sMax = max;
+                    sMax = ch;
                 }
             }
         }
