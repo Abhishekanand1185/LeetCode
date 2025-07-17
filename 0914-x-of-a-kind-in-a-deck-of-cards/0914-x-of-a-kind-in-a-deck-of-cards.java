@@ -8,7 +8,7 @@ class Solution {
         for(int v: hm.keySet()){
             Gcd = gcd(Gcd, hm.get(v));
         }
-    return Gcd == 1 ? false: true;
+    return Gcd > 1;
     }
     private static int gcd(int a, int b){
         if(a==0){
