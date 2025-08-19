@@ -9,9 +9,8 @@ class FreqStack {
     }
     
     public void push(int val) {
-        int freq = freqMap.getOrDefault(val, 0);
-        freq++;
-        freqMap.put(val, freq);
+        freqMap.put(val,freqMap.getOrDefault(val,0)+1);
+        int freq = freqMap.get(val);
         if(st.containsKey(freq) == false){
             st.put(freq, new Stack<>());
         }
