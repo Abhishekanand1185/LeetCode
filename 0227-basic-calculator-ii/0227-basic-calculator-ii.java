@@ -27,7 +27,7 @@ class Solution {
             }
 
             else if(ch[i] == '+' || ch[i] == '-' || ch[i] == '*' || ch[i] == '/'){
-                if(!operator.isEmpty() && prec(operator.peek()) >= prec(ch[i])){
+                while(!operator.isEmpty() && prec(operator.peek()) >= prec(ch[i])){
                     char oprtr = operator.pop();
                     int val2 = operand.pop();
                     int val1 = operand.pop();
