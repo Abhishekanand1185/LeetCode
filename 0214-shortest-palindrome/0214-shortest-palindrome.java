@@ -3,9 +3,8 @@ class Solution {
         String rev = new StringBuilder(s).reverse().toString();
         String temp = s + "#" + rev;
         int lpsArr[] = lps(temp);
-        String suffix = s.substring(lpsArr[lpsArr.length-1]);
+        String suffix = rev.substring(0, rev.length()-lpsArr[lpsArr.length-1]);
         StringBuilder sb = new StringBuilder(suffix);
-        sb.reverse();
         sb.append(s);
     return sb.toString();
     }
