@@ -1,14 +1,11 @@
 class Solution {
     public int minimumOperations(int[] nums) {
-        int countDivBy3 = 0, countNotDivBy3 = 0;
-        for(int i = 0; i<nums.length; i++){
-            if(nums[i] % 3 == 0){
-                countDivBy3 ++;
-            }
-            else{
-                countNotDivBy3 ++;
+        int ops = 0;
+        for(int num : nums){
+            if((num % 3 == 1) || (num % 3 == 2)){
+                ops++;
             }
         }
-    return nums.length == countDivBy3 ? 0 : countNotDivBy3;
+    return ops;
     }
 }
