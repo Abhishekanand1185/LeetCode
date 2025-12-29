@@ -9,7 +9,7 @@ class Solution {
             while(low < high){
                 int mid = low+(high-low)/2;
                 if(dp[mid] < nums[i]){
-                    low = mid + 1;
+                    low = mid+1;
                 }
                 else{
                     high = mid;
