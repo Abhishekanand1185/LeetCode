@@ -31,3 +31,11 @@ Some of the problem types I've solved so far include:
 ## 📬 Reach Out
 If you have any questions or suggestions, feel free to reach out:
 - [LinkedIn](https://www.linkedin.com/in/abhishek-anand-7a6b2b248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1068-product-sales-analysis-i](https://github.com/Abhishekanand1185/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
+<!---LeetCode Topics End-->
