@@ -37,5 +37,6 @@ If you have any questions or suggestions, feel free to reach out:
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0610-triangle-judgement](https://github.com/Abhishekanand1185/LeetCode/tree/main/0610-triangle-judgement/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Abhishekanand1185/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 <!---LeetCode Topics End-->
