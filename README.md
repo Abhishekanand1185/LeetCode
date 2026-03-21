@@ -39,4 +39,16 @@ If you have any questions or suggestions, feel free to reach out:
 | ------- | ------- |
 | [0610-triangle-judgement](https://github.com/Abhishekanand1185/LeetCode/tree/main/0610-triangle-judgement/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Abhishekanand1185/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/Abhishekanand1185/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/Abhishekanand1185/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/Abhishekanand1185/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 <!---LeetCode Topics End-->
