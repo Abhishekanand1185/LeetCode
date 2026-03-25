@@ -42,6 +42,7 @@ If you have any questions or suggestions, feel free to reach out:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/Abhishekanand1185/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Abhishekanand1185/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -50,5 +51,14 @@ If you have any questions or suggestions, feel free to reach out:
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/Abhishekanand1185/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Abhishekanand1185/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/Abhishekanand1185/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/Abhishekanand1185/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 <!---LeetCode Topics End-->
