@@ -61,4 +61,8 @@ If you have any questions or suggestions, feel free to reach out:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Abhishekanand1185/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Abhishekanand1185/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 <!---LeetCode Topics End-->
