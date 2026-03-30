@@ -65,4 +65,12 @@ If you have any questions or suggestions, feel free to reach out:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Abhishekanand1185/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/Abhishekanand1185/LeetCode/tree/main/0190-reverse-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/Abhishekanand1185/LeetCode/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
