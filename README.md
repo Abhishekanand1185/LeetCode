@@ -47,6 +47,7 @@ If you have any questions or suggestions, feel free to reach out:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Abhishekanand1185/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Abhishekanand1185/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -73,4 +74,12 @@ If you have any questions or suggestions, feel free to reach out:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/Abhishekanand1185/LeetCode/tree/main/0190-reverse-bits/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Abhishekanand1185/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Abhishekanand1185/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 <!---LeetCode Topics End-->
