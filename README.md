@@ -42,11 +42,13 @@ If you have any questions or suggestions, feel free to reach out:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Abhishekanand1185/LeetCode/tree/main/0015-3sum/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Abhishekanand1185/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Abhishekanand1185/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Abhishekanand1185/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhishekanand1185/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Abhishekanand1185/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Matrix
@@ -82,4 +84,8 @@ If you have any questions or suggestions, feel free to reach out:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhishekanand1185/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/Abhishekanand1185/LeetCode/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
