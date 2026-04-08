@@ -39,6 +39,7 @@ If you have any questions or suggestions, feel free to reach out:
 | ------- | ------- |
 | [0610-triangle-judgement](https://github.com/Abhishekanand1185/LeetCode/tree/main/0610-triangle-judgement/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Abhishekanand1185/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1251-average-selling-price](https://github.com/Abhishekanand1185/LeetCode/tree/main/1251-average-selling-price/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
