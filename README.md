@@ -44,6 +44,7 @@ If you have any questions or suggestions, feel free to reach out:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Abhishekanand1185/LeetCode/tree/main/0015-3sum/) | Medium |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Abhishekanand1185/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Abhishekanand1185/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Abhishekanand1185/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Two Pointers
